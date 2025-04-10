@@ -1,2 +1,5 @@
-# handy
-git repo for code and data of handy
+# HandyAPP
+
+# Dataset
+
+# Code
