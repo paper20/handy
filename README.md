@@ -1,9 +1,9 @@
-# HandyAPP  
+# 1. HandyAPP  
 
-## Dataset :   
+## 1.1 Dataset :   
 ## Currently, only sample data is provided. The complete dataset will be made publicly available after the paper is accepted for publication.        
 
-## Code :  
+## 1.2 Code :  
 ## python train.py --gpu_id "-1" --task_name "cradle-3" --model_name "cnn" --merge True      
 ## python train.py --gpu_id "0" --task_name "all-7" --model_name "cnn" --merge True        
 ## python train.py --gpu_id "0" --task_name "cradle-3" --model_name "tcn" --merge True        
